@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Right Grotesk';
+    src: local('Right Grotesk Wide Medium'), local('RightGrotesk-WideMedium'),
+        url('PPRightGrotesk-WideMedium.eot?#iefix') format('embedded-opentype'),
+        url('PPRightGrotesk-WideMedium.woff2') format('woff2'),
+        url('PPRightGrotesk-WideMedium.woff') format('woff'),
+        url('PPRightGrotesk-WideMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
